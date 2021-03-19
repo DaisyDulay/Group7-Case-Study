@@ -156,7 +156,6 @@ public class OnlineBank {
                 }
          }
         
-
         
         //Iris Phoebe Dizon "Method 8"
         public static void Email(Customer customer, Account acc) {
