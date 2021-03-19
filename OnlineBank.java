@@ -161,7 +161,7 @@ public class OnlineBank {
         //Iris Phoebe Dizon "Method 8"
         public static void Email(Customer customer, Account acc) {
             Scanner user = new Scanner(System.in);
-            System.out.println("\nPlease enter your email:");
+            System.out.println("\nPlease enter your e-mail:");
             String Mail =user.nextLine();
             
             System.out.println("\nThe Reciept will send to your email:"+ Mail);
