@@ -193,11 +193,11 @@ public class OnlineBank {
                                 Date dateobj = new Date();
                                 Calendar calobj = Calendar.getInstance();       /*Get Cuurrent date*/
                         System.out.println(df.format(calobj.getTime()));
-                        System.out.println("PAYMENT IS SUCCESSFUL");
+                        System.out.println("PAYMENT IS SUCCESSFUL!!");
                         System.out.println("Account Number: "+customer.AccountNum);             /*Get account Number*/
                         System.out.println("Available balance: " + acc.balance);                /*Get the balance left*/
                         System.out.println("\n----------------------------------------");
-                          System.out.println("Thank you for banking with us!");
+                          System.out.println("Thank you for banking with us!!");
                        }
 	}
              
